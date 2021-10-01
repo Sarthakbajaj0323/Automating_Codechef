@@ -3,6 +3,6 @@ A python-based script to automatically login and submit the code in solution fil
 
 Prerequisites:
 
-Python 3+
-Selenium
-Chromedriver
+1. Python 3+
+2. Selenium
+3. Chromedriver
